@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HWthree",
+            "request": "launch",
+            "mainClass": "HWthree",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
+            "name": "HWone",
+            "request": "launch",
+            "mainClass": "HWone",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
